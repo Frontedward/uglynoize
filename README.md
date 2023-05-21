@@ -2,10 +2,3 @@
 
 ### About Me:
 I am a beginner+ front-end developer from St.Petersburg and really interested in web technologies, architecture and styles.
-
-
-
-
-
-
-
