@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=blue" alt=""/>
 <!--
 **uglynoize/uglynoize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
