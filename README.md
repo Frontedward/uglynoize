@@ -1,6 +1,12 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=blue" alt=""/>
-<!--
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+---
+I am a beginner+ Frontend Developer from Russia.
+
 **uglynoize/uglynoize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=blue" alt=""/>
