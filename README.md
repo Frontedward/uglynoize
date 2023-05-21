@@ -1,7 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=ff69b4" alt=""/> 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   hey there
+  <img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=ff69b4" alt=""/>
 </h1>
 I am a beginner+ front-end developer from St.Petersburg and really interested in web technologies, architecture and styles.
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
