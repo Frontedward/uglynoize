@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=ff69b4" alt=""/>
   hey there!
 </h1>
-I am a beginner+ front-end developer from St.Petersburg and really interested in web technologies, architecture and styles.
+I am a beginner+ front-end developer and really interested in web technologies, architecture and styles.
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
