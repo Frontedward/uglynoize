@@ -1,9 +1,8 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=uglynoize&style=flat-square&color=ff69b4" alt=""/>
   hey there!
 </h1>
-I am a beginner+ front-end developer and really interested in web technologies, architecture and styles.
+I am a front-end developer.
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -20,8 +19,3 @@ I am a beginner+ front-end developer and really interested in web technologies, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="Behance" alt="Behance" width="40" height="40"/>&nbsp;  
 </div>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uglynoize&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uglynoize&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
